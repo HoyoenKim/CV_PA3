@@ -1,0 +1,200 @@
+Epoch 1/40
+100%|██████████| 414/414 [00:39<00:00, 10.50it/s]
+Train Loss: 1.5279, Train Per Image IOU: 0.6791, Train Dataset IOU: 0.6815
+100%|██████████| 368/368 [00:10<00:00, 34.28it/s]
+Valid Loss: 0.1940, Valid Per Image IOU: 0.6893, Valid Dataset IOU: 0.6893
+Epoch 2/40
+100%|██████████| 414/414 [00:39<00:00, 10.58it/s]
+Train Loss: 1.5035, Train Per Image IOU: 0.6842, Train Dataset IOU: 0.6857
+100%|██████████| 368/368 [00:10<00:00, 34.42it/s]
+Valid Loss: 0.1947, Valid Per Image IOU: 0.6889, Valid Dataset IOU: 0.6889
+Epoch 3/40
+100%|██████████| 414/414 [00:39<00:00, 10.59it/s]
+Train Loss: 1.4714, Train Per Image IOU: 0.6912, Train Dataset IOU: 0.6915
+100%|██████████| 368/368 [00:10<00:00, 34.13it/s]
+Valid Loss: 0.1924, Valid Per Image IOU: 0.6917, Valid Dataset IOU: 0.6917
+Epoch 4/40
+100%|██████████| 414/414 [00:39<00:00, 10.54it/s]
+Train Loss: 1.4532, Train Per Image IOU: 0.6932, Train Dataset IOU: 0.6947
+100%|██████████| 368/368 [00:10<00:00, 34.65it/s]
+Valid Loss: 0.1910, Valid Per Image IOU: 0.6939, Valid Dataset IOU: 0.6939
+Epoch 5/40
+100%|██████████| 414/414 [00:39<00:00, 10.39it/s]
+Train Loss: 1.4381, Train Per Image IOU: 0.6961, Train Dataset IOU: 0.6973
+100%|██████████| 368/368 [00:10<00:00, 33.98it/s]
+Valid Loss: 0.1857, Valid Per Image IOU: 0.7020, Valid Dataset IOU: 0.7020
+Epoch 6/40
+100%|██████████| 414/414 [00:39<00:00, 10.51it/s]
+Train Loss: 1.4370, Train Per Image IOU: 0.6973, Train Dataset IOU: 0.6977
+100%|██████████| 368/368 [00:10<00:00, 33.55it/s]
+Valid Loss: 0.1827, Valid Per Image IOU: 0.7050, Valid Dataset IOU: 0.7050
+Epoch 7/40
+100%|██████████| 414/414 [00:39<00:00, 10.56it/s]
+Train Loss: 1.4184, Train Per Image IOU: 0.7002, Train Dataset IOU: 0.7009
+100%|██████████| 368/368 [00:10<00:00, 34.03it/s]
+Valid Loss: 0.1806, Valid Per Image IOU: 0.7083, Valid Dataset IOU: 0.7083
+Epoch 8/40
+100%|██████████| 414/414 [00:39<00:00, 10.39it/s]
+Train Loss: 1.4164, Train Per Image IOU: 0.7007, Train Dataset IOU: 0.7013
+100%|██████████| 368/368 [00:11<00:00, 33.43it/s]
+Valid Loss: 0.1772, Valid Per Image IOU: 0.7130, Valid Dataset IOU: 0.7130
+Epoch 9/40
+100%|██████████| 414/414 [00:39<00:00, 10.48it/s]
+Train Loss: 1.3858, Train Per Image IOU: 0.7056, Train Dataset IOU: 0.7067
+100%|██████████| 368/368 [00:10<00:00, 34.18it/s]
+Valid Loss: 0.1779, Valid Per Image IOU: 0.7127, Valid Dataset IOU: 0.7127
+Epoch 10/40
+100%|██████████| 414/414 [00:39<00:00, 10.45it/s]
+Train Loss: 1.3617, Train Per Image IOU: 0.7102, Train Dataset IOU: 0.7112
+100%|██████████| 368/368 [00:10<00:00, 33.83it/s]
+Valid Loss: 0.1752, Valid Per Image IOU: 0.7157, Valid Dataset IOU: 0.7157
+Epoch 11/40
+100%|██████████| 414/414 [00:39<00:00, 10.56it/s]
+Train Loss: 1.3417, Train Per Image IOU: 0.7131, Train Dataset IOU: 0.7148
+100%|██████████| 368/368 [00:11<00:00, 32.94it/s]
+Valid Loss: 0.1734, Valid Per Image IOU: 0.7186, Valid Dataset IOU: 0.7186
+Epoch 12/40
+100%|██████████| 414/414 [00:39<00:00, 10.56it/s]
+Train Loss: 1.3486, Train Per Image IOU: 0.7137, Train Dataset IOU: 0.7137
+100%|██████████| 368/368 [00:10<00:00, 34.45it/s]
+Valid Loss: 0.1735, Valid Per Image IOU: 0.7192, Valid Dataset IOU: 0.7192
+Epoch 13/40
+100%|██████████| 414/414 [00:39<00:00, 10.59it/s]
+Train Loss: 1.3133, Train Per Image IOU: 0.7190, Train Dataset IOU: 0.7201
+100%|██████████| 368/368 [00:10<00:00, 34.50it/s]
+Valid Loss: 0.1686, Valid Per Image IOU: 0.7248, Valid Dataset IOU: 0.7248
+Epoch 14/40
+100%|██████████| 414/414 [00:38<00:00, 10.63it/s]
+Train Loss: 1.3057, Train Per Image IOU: 0.7201, Train Dataset IOU: 0.7215
+100%|██████████| 368/368 [00:10<00:00, 34.12it/s]
+Valid Loss: 0.1663, Valid Per Image IOU: 0.7288, Valid Dataset IOU: 0.7288
+Epoch 15/40
+100%|██████████| 414/414 [00:39<00:00, 10.56it/s]
+Train Loss: 1.2986, Train Per Image IOU: 0.7215, Train Dataset IOU: 0.7226
+100%|██████████| 368/368 [00:10<00:00, 34.44it/s]
+Valid Loss: 0.1686, Valid Per Image IOU: 0.7251, Valid Dataset IOU: 0.7251
+Epoch 16/40
+100%|██████████| 414/414 [00:39<00:00, 10.55it/s]
+Train Loss: 1.2874, Train Per Image IOU: 0.7241, Train Dataset IOU: 0.7250
+100%|██████████| 368/368 [00:10<00:00, 34.68it/s]
+Valid Loss: 0.1642, Valid Per Image IOU: 0.7320, Valid Dataset IOU: 0.7320
+Epoch 17/40
+100%|██████████| 414/414 [00:38<00:00, 10.64it/s]
+Train Loss: 1.2724, Train Per Image IOU: 0.7263, Train Dataset IOU: 0.7279
+100%|██████████| 368/368 [00:10<00:00, 34.17it/s]
+Valid Loss: 0.1648, Valid Per Image IOU: 0.7309, Valid Dataset IOU: 0.7309
+Epoch 18/40
+100%|██████████| 414/414 [00:39<00:00, 10.51it/s]
+Train Loss: 1.2769, Train Per Image IOU: 0.7256, Train Dataset IOU: 0.7270
+100%|██████████| 368/368 [00:10<00:00, 34.68it/s]
+Valid Loss: 0.1591, Valid Per Image IOU: 0.7383, Valid Dataset IOU: 0.7383
+Epoch 19/40
+100%|██████████| 414/414 [00:39<00:00, 10.52it/s]
+Train Loss: 1.2560, Train Per Image IOU: 0.7289, Train Dataset IOU: 0.7307
+100%|██████████| 368/368 [00:10<00:00, 34.42it/s]
+Valid Loss: 0.1607, Valid Per Image IOU: 0.7364, Valid Dataset IOU: 0.7364
+Epoch 20/40
+100%|██████████| 414/414 [00:39<00:00, 10.56it/s]
+Train Loss: 1.2416, Train Per Image IOU: 0.7321, Train Dataset IOU: 0.7333
+100%|██████████| 368/368 [00:10<00:00, 34.70it/s]
+Valid Loss: 0.1646, Valid Per Image IOU: 0.7305, Valid Dataset IOU: 0.7305
+Epoch 21/40
+100%|██████████| 414/414 [00:39<00:00, 10.60it/s]
+Train Loss: 1.2428, Train Per Image IOU: 0.7319, Train Dataset IOU: 0.7331
+100%|██████████| 368/368 [00:10<00:00, 34.31it/s]
+Valid Loss: 0.1584, Valid Per Image IOU: 0.7397, Valid Dataset IOU: 0.7397
+Epoch 22/40
+100%|██████████| 414/414 [00:39<00:00, 10.57it/s]
+Train Loss: 1.2354, Train Per Image IOU: 0.7336, Train Dataset IOU: 0.7348
+100%|██████████| 368/368 [00:10<00:00, 34.49it/s]
+Valid Loss: 0.1667, Valid Per Image IOU: 0.7279, Valid Dataset IOU: 0.7279
+Epoch 23/40
+100%|██████████| 414/414 [00:38<00:00, 10.67it/s]
+Train Loss: 1.2389, Train Per Image IOU: 0.7332, Train Dataset IOU: 0.7339
+100%|██████████| 368/368 [00:10<00:00, 34.33it/s]
+Valid Loss: 0.1626, Valid Per Image IOU: 0.7333, Valid Dataset IOU: 0.7333
+Epoch 24/40
+100%|██████████| 414/414 [00:39<00:00, 10.54it/s]
+Train Loss: 1.1894, Train Per Image IOU: 0.7421, Train Dataset IOU: 0.7433
+100%|██████████| 368/368 [00:10<00:00, 34.46it/s]
+Valid Loss: 0.1522, Valid Per Image IOU: 0.7482, Valid Dataset IOU: 0.7482
+Epoch 25/40
+100%|██████████| 414/414 [00:39<00:00, 10.59it/s]
+Train Loss: 1.1750, Train Per Image IOU: 0.7439, Train Dataset IOU: 0.7459
+100%|██████████| 368/368 [00:10<00:00, 33.79it/s]
+Valid Loss: 0.1533, Valid Per Image IOU: 0.7463, Valid Dataset IOU: 0.7463
+Epoch 26/40
+100%|██████████| 414/414 [00:38<00:00, 10.63it/s]
+Train Loss: 1.1508, Train Per Image IOU: 0.7486, Train Dataset IOU: 0.7505
+100%|██████████| 368/368 [00:10<00:00, 34.32it/s]
+Valid Loss: 0.1506, Valid Per Image IOU: 0.7516, Valid Dataset IOU: 0.7516
+Epoch 27/40
+100%|██████████| 414/414 [00:38<00:00, 10.65it/s]
+Train Loss: 1.1358, Train Per Image IOU: 0.7514, Train Dataset IOU: 0.7534
+100%|██████████| 368/368 [00:10<00:00, 34.57it/s]
+Valid Loss: 0.1534, Valid Per Image IOU: 0.7469, Valid Dataset IOU: 0.7469
+Epoch 28/40
+100%|██████████| 414/414 [00:38<00:00, 10.63it/s]
+Train Loss: 1.1314, Train Per Image IOU: 0.7522, Train Dataset IOU: 0.7544
+100%|██████████| 368/368 [00:10<00:00, 33.88it/s]
+Valid Loss: 0.1560, Valid Per Image IOU: 0.7426, Valid Dataset IOU: 0.7426
+Epoch 29/40
+100%|██████████| 414/414 [00:39<00:00, 10.54it/s]
+Train Loss: 1.1008, Train Per Image IOU: 0.7572, Train Dataset IOU: 0.7602
+100%|██████████| 368/368 [00:10<00:00, 34.56it/s]
+Valid Loss: 0.1490, Valid Per Image IOU: 0.7538, Valid Dataset IOU: 0.7538
+Epoch 30/40
+100%|██████████| 414/414 [00:39<00:00, 10.57it/s]
+Train Loss: 1.0935, Train Per Image IOU: 0.7587, Train Dataset IOU: 0.7615
+100%|██████████| 368/368 [00:10<00:00, 34.21it/s]
+Valid Loss: 0.1512, Valid Per Image IOU: 0.7503, Valid Dataset IOU: 0.7503
+Epoch 31/40
+100%|██████████| 414/414 [00:39<00:00, 10.56it/s]
+Train Loss: 1.0930, Train Per Image IOU: 0.7588, Train Dataset IOU: 0.7617
+100%|██████████| 368/368 [00:10<00:00, 34.10it/s]
+Valid Loss: 0.1487, Valid Per Image IOU: 0.7536, Valid Dataset IOU: 0.7536
+Epoch 32/40
+100%|██████████| 414/414 [00:39<00:00, 10.58it/s]
+Train Loss: 1.1111, Train Per Image IOU: 0.7550, Train Dataset IOU: 0.7582
+100%|██████████| 368/368 [00:10<00:00, 34.10it/s]
+Valid Loss: 0.1496, Valid Per Image IOU: 0.7520, Valid Dataset IOU: 0.7520
+Epoch 33/40
+100%|██████████| 414/414 [00:39<00:00, 10.57it/s]
+Train Loss: 1.0966, Train Per Image IOU: 0.7583, Train Dataset IOU: 0.7610
+100%|██████████| 368/368 [00:10<00:00, 34.68it/s]
+Valid Loss: 0.1456, Valid Per Image IOU: 0.7584, Valid Dataset IOU: 0.7584
+Epoch 34/40
+100%|██████████| 414/414 [00:39<00:00, 10.55it/s]
+Train Loss: 1.0743, Train Per Image IOU: 0.7613, Train Dataset IOU: 0.7656
+100%|██████████| 368/368 [00:10<00:00, 34.44it/s]
+Valid Loss: 0.1506, Valid Per Image IOU: 0.7511, Valid Dataset IOU: 0.7511
+Epoch 35/40
+100%|██████████| 414/414 [00:39<00:00, 10.57it/s]
+Train Loss: 1.0770, Train Per Image IOU: 0.7610, Train Dataset IOU: 0.7649
+100%|██████████| 368/368 [00:10<00:00, 34.81it/s]
+Valid Loss: 0.1457, Valid Per Image IOU: 0.7579, Valid Dataset IOU: 0.7579
+Epoch 36/40
+100%|██████████| 414/414 [00:39<00:00, 10.61it/s]
+Train Loss: 1.0592, Train Per Image IOU: 0.7646, Train Dataset IOU: 0.7682
+100%|██████████| 368/368 [00:10<00:00, 34.35it/s]
+Valid Loss: 0.1460, Valid Per Image IOU: 0.7579, Valid Dataset IOU: 0.7579
+Epoch 37/40
+100%|██████████| 414/414 [00:39<00:00, 10.59it/s]
+Train Loss: 1.0420, Train Per Image IOU: 0.7675, Train Dataset IOU: 0.7716
+100%|██████████| 368/368 [00:10<00:00, 34.28it/s]
+Valid Loss: 0.1465, Valid Per Image IOU: 0.7567, Valid Dataset IOU: 0.7567
+Epoch 38/40
+100%|██████████| 414/414 [00:38<00:00, 10.62it/s]
+Train Loss: 1.0590, Train Per Image IOU: 0.7655, Train Dataset IOU: 0.7685
+100%|██████████| 368/368 [00:10<00:00, 34.83it/s]
+Valid Loss: 0.1466, Valid Per Image IOU: 0.7560, Valid Dataset IOU: 0.7560
+Epoch 39/40
+100%|██████████| 414/414 [00:39<00:00, 10.55it/s]
+Train Loss: 1.0476, Train Per Image IOU: 0.7667, Train Dataset IOU: 0.7705
+100%|██████████| 368/368 [00:11<00:00, 33.39it/s]
+Valid Loss: 0.1489, Valid Per Image IOU: 0.7535, Valid Dataset IOU: 0.7535
+Epoch 40/40
+100%|██████████| 414/414 [00:39<00:00, 10.61it/s]
+Train Loss: 1.0474, Train Per Image IOU: 0.7659, Train Dataset IOU: 0.7705
+100%|██████████| 368/368 [00:10<00:00, 34.30it/s]
+Valid Loss: 0.1441, Valid Per Image IOU: 0.7597, Valid Dataset IOU: 0.7597
